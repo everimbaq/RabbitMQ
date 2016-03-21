@@ -1,3 +1,5 @@
+# 个人编辑备份
+    by everimbaq
 # RabbitMQ
 RabbitMQ系统中文完全注释，主要是进行RabbitMQ源代码分析(在阅读过程中得到了网上很多资料的帮助)
 
