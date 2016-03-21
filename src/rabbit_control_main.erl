@@ -96,7 +96,7 @@
 		  connection_info_keys},
 		 {"Channels",  rabbit_channel,  info_all, info_keys}]).
 
-
+%% 测试测试修改
 %% VHost下所有详细信息获取定义
 -define(VHOST_QUERIES,
 		[{"Queues",    rabbit_amqqueue, info_all, info_keys},
